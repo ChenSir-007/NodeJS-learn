@@ -1,0 +1,19 @@
+{
+  "name": "demo02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01md5例子.js",
+  "dependencies": {
+    "@firesoon/bc-bl-drawer": "^1.0.10",
+    "md5": "^2.3.0",
+    "silly-datetime": "^0.1.2"
+  },
+  "devDependencies": {
+    "ejs": "^3.1.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
